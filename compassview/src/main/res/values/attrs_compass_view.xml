@@ -1,0 +1,11 @@
+<resources>
+    <declare-styleable name="CompassView">
+        <attr name="degrees" format="integer" />
+        <attr name="sticker_size" format="integer" />
+        <attr name="text_size" format="float" />
+        <attr name="space" format="integer" />
+        <attr name="sticker_color" format="color" />
+        <attr name="mid_sticker_color" format="color" />
+        <attr name="text_color" format="color" />
+    </declare-styleable>
+</resources>
